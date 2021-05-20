@@ -12,5 +12,12 @@
   "description": "",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "css-loader": "^5.2.4",
+    "loader": "^2.1.1",
+    "node-sass": "^6.0.0",
+    "sass": "^1.32.13",
+    "style-loader": "^2.0.0"
   }
 }
